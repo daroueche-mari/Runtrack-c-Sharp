@@ -1,0 +1,14 @@
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\bin\Debug\net10.0\Job 4.exe
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\bin\Debug\net10.0\Job 4.deps.json
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\bin\Debug\net10.0\Job 4.runtimeconfig.json
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\bin\Debug\net10.0\Job 4.dll
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\bin\Debug\net10.0\Job 4.pdb
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\Job 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\Job 4.AssemblyInfoInputs.cache
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\Job 4.AssemblyInfo.cs
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\Job 4.csproj.CoreCompileInputs.cache
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\Job 4.dll
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\refint\Job 4.dll
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\Job 4.pdb
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\Job 4.genruntimeconfig.cache
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 1\Job 4\obj\Debug\net10.0\ref\Job 4.dll
