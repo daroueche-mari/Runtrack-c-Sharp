@@ -1,0 +1,14 @@
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\bin\Debug\net10.0\Single Job.exe
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\bin\Debug\net10.0\Single Job.deps.json
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\bin\Debug\net10.0\Single Job.runtimeconfig.json
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\bin\Debug\net10.0\Single Job.dll
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\bin\Debug\net10.0\Single Job.pdb
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\Single Job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\Single Job.AssemblyInfoInputs.cache
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\Single Job.AssemblyInfo.cs
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\Single Job.csproj.CoreCompileInputs.cache
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\Single Job.dll
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\refint\Single Job.dll
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\Single Job.pdb
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\Single Job.genruntimeconfig.cache
+C:\Users\dmari\Desktop\Cours JVSI\c-sharp\Jour 5\Single Job\obj\Debug\net10.0\ref\Single Job.dll
